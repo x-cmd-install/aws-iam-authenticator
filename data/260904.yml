@@ -7,7 +7,7 @@ about:
   head: 5ae0e8e
   archived: false
   latestVersion: v0.7.20
-  collectedAt: 2026-09-04T19:34:47Z
+  collectedAt: 2026-09-04T20:56:06Z
 timeline:
   created: 2017-08-01
   lastCommit: 2026-08-26
@@ -84,6 +84,59 @@ total:
   openIssue: 6
   commit: 1030
 ---
+path: /home/runner/.x-repo/github.com/kubernetes-sigs/aws-iam-authenticator
+collectedAt: 2026-09-04T20:56:09Z
+loc:
+  Go:
+    code: 10137
+    comments: 1628
+    blanks: 1454
+    files: 83
+  Sh:
+    code: 966
+    comments: 297
+    blanks: 219
+    files: 16
+  Yaml:
+    code: 768
+    comments: 170
+    blanks: 39
+    files: 20
+  Makefile:
+    code: 155
+    comments: 31
+    blanks: 37
+    files: 1
+  Python:
+    code: 26
+    comments: 1
+    blanks: 2
+    files: 1
+  Dockerfile:
+    code: 14
+    comments: 13
+    blanks: 4
+    files: 1
+  Json:
+    code: 0
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 472
+    blanks: 179
+    files: 7
+  Text:
+    code: 0
+    comments: 13
+    blanks: 3
+    files: 2
+total:
+  code: 12208
+  comments: 2683
+  blanks: 1964
+  files: 132
 ---
 date: "2026-08-24"
 repo:
