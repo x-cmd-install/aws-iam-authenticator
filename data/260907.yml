@@ -5,7 +5,7 @@ about:
   head: 5ae0e8e
   archived: false
   latestVersion: "v0.7.20"
-  collectedAt: 2026-09-07T06:06:23Z
+  collectedAt: 2026-09-07T18:27:34Z
 timeline:
   created: 2017-08-01
   lastCommit: 2026-08-26
@@ -16,7 +16,7 @@ popularity:
   fork: 453
   release: 66
   contributor: 499
-  pullRequest: 803
+  pullRequest: 804
   issue: 299
 language:
   Go: 403162
@@ -30,7 +30,7 @@ recent:
     since: 2026-08-08
     release: 2
     mergedPR: 3
-    openPR: 2
+    openPR: 3
     closedIssue: 0
     openIssue: 1
     commit: 5
@@ -83,7 +83,7 @@ total:
   commit: 1030
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/aws-iam-authenticator
-collectedAt: 2026-09-07T06:06:27Z
+collectedAt: 2026-09-07T18:27:41Z
 loc:
   Go:
     code: 10137
@@ -235,7 +235,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:06:27+00:00
+  collectedAt: 2026-09-07T18:27:43+00:00
   platform:
     darwin/arm64:
       name:  aws-iam-authenticator_0.7.20_darwin_arm64
