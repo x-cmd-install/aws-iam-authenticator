@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.7.20"
   latestRelease: "v0.7.20"
   latestPrerelease: "v0.5.4"
-  collectedAt: 2026-09-11T06:06:50Z
+  collectedAt: 2026-09-11T18:57:43Z
 timeline:
   created: 2017-08-01
   lastCommit: 2026-08-26
@@ -15,11 +15,11 @@ timeline:
   lastRelease: 2026-08-26
   lastPrerelease: 2022-02-04
 popularity:
-  star: 2332
+  star: 2333
   watcher: 36
   fork: 453
   release: 66
-  contributor: 500
+  contributor: 501
   pullRequest: 804
   issue: 299
 language:
@@ -87,7 +87,7 @@ total:
   commit: 1030
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/aws-iam-authenticator
-collectedAt: 2026-09-11T06:06:55Z
+collectedAt: 2026-09-11T18:57:51Z
 loc:
   Go:
     code: 10137
