@@ -4,7 +4,7 @@
 
 A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 
-![aws-iam-authenticator](https://repo.x-cmd.io/aws-iam-authenticator.svg)
+[![x-cmd/install — aws-iam-authenticator Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aws-iam-authenticator.svg)](https://x-cmd.com/install/aws-iam-authenticator)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,334 · **Forks**: 455 · **Open issues**: 300 · **Contributors**: 503
+- **Stars**: 2,335 · **Forks**: 455 · **Open issues**: 300 · **Contributors**: 504
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 3 | 5 | 0 | 2 | 5 |
-| last60d | 2026-07-20 | 2 | 4 | 7 | 0 | 2 | 7 |
-| 90d | 2026-06-20 | 2 | 9 | 9 | 0 | 3 | 13 |
-| last180d | 2026-03-22 | 8 | 31 | 12 | 1 | 3 | 35 |
-| 360d | 2025-09-23 | 13 | 70 | 14 | 1 | 3 | 92 |
-| last720d | 2024-09-28 | 24 | 160 | 14 | 5 | 3 | 365 |
+| 30d | 2026-08-21 | 2 | 2 | 5 | 0 | 2 | 0 |
+| last60d | 2026-07-22 | 2 | 4 | 7 | 0 | 2 | 7 |
+| 90d | 2026-06-22 | 2 | 9 | 9 | 0 | 3 | 11 |
+| last180d | 2026-03-24 | 8 | 29 | 12 | 1 | 3 | 34 |
+| 360d | 2025-09-25 | 13 | 70 | 14 | 1 | 3 | 86 |
+| last720d | 2024-09-30 | 24 | 160 | 14 | 5 | 3 | 365 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for aws-iam-authenticator lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:19:34Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:17:54Z._
