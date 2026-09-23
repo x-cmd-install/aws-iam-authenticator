@@ -4,7 +4,7 @@
 
 A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 
-[![x-cmd/install — aws-iam-authenticator Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aws-iam-authenticator.svg?lang=zh)](https://x-cmd.com/install/aws-iam-authenticator)
+[![x-cmd/install — aws-iam-authenticator Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/aws-iam-authenticator.svg?lang=zh)](https://x-cmd.com/install/aws-iam-authenticator)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install aws-iam-authenticator
 
 ## 代码洞察
 
-合计: **12,066** 行代码（覆盖前 5 种语言、共 **121** 个文件）。
+合计: **12,106** 行代码（覆盖前 5 种语言、共 **121** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 10,137 | 1,628 | 1,454 | 83 |
+| Go | 10,177 | 1,633 | 1,460 | 83 |
 | Sh | 966 | 297 | 219 | 16 |
 | Yaml | 768 | 170 | 39 | 20 |
 | Makefile | 155 | 31 | 37 | 1 |
@@ -42,27 +42,27 @@ x install aws-iam-authenticator
 ## 发布
 
 - **最新版本**: `v0.7.20` (2026-08-26)
-- **最近提交**: 2026-08-26
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 2,335 · **Fork**: 455 · **开放 issue**: 300 · **贡献者**: 505
+- **Star**: 2,335 · **Fork**: 455 · **开放 issue**: 300 · **贡献者**: 506
 
 ## 累计统计
 
-- **发布数**: 66 · **已合并 PR**: 524 · **开放 PR**: 14 · **已关闭 issue**: 293 · **开放 issue**: 7 · **提交数**: 1030
+- **发布数**: 66 · **已合并 PR**: 525 · **开放 PR**: 13 · **已关闭 issue**: 294 · **开放 issue**: 6 · **提交数**: 1032
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 2 | 5 | 0 | 2 | 0 |
-| last60d | 2026-07-24 | 2 | 4 | 7 | 0 | 2 | 7 |
-| 90d | 2026-06-24 | 2 | 8 | 9 | 0 | 3 | 11 |
-| last180d | 2026-03-26 | 8 | 29 | 12 | 1 | 3 | 34 |
-| 360d | 2025-09-27 | 13 | 69 | 14 | 1 | 3 | 86 |
-| last720d | 2024-10-02 | 24 | 159 | 14 | 5 | 3 | 365 |
+| 30d | 2026-08-24 | 1 | 3 | 4 | 1 | 1 | 1 |
+| last60d | 2026-07-25 | 2 | 5 | 6 | 1 | 1 | 8 |
+| 90d | 2026-06-25 | 2 | 9 | 8 | 1 | 2 | 12 |
+| last180d | 2026-03-27 | 8 | 30 | 11 | 2 | 2 | 35 |
+| 360d | 2025-09-28 | 13 | 70 | 13 | 2 | 2 | 87 |
+| last720d | 2024-10-03 | 24 | 160 | 13 | 6 | 2 | 366 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ aws-iam-authenticator 的安装元数据由 [x-cmd/install](https://github.com/x
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:30:00Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:48:04Z._
