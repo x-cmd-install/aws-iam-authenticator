@@ -31,8 +31,8 @@ x install aws-iam-authenticator
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install aws-iam-authenticator
 
 ## 流行度
 
-- **Star**: 2,336 · **Fork**: 455 · **开放 issue**: 300 · **贡献者**: 509
+- **Star**: 2,336 · **Fork**: 455 · **开放 issue**: 300 · **贡献者**: 512
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install aws-iam-authenticator
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 1 | 5 | 1 | 0 | 1 |
-| last60d | 2026-07-31 | 2 | 4 | 6 | 1 | 1 | 6 |
-| 90d | 2026-07-01 | 2 | 8 | 8 | 1 | 2 | 12 |
-| last180d | 2026-04-02 | 8 | 28 | 13 | 2 | 2 | 32 |
-| 360d | 2025-10-04 | 12 | 66 | 15 | 2 | 2 | 85 |
-| last720d | 2024-10-09 | 24 | 160 | 15 | 6 | 2 | 366 |
+| 30d | 2026-08-31 | 0 | 1 | 5 | 1 | 0 | 1 |
+| last60d | 2026-08-01 | 2 | 4 | 6 | 1 | 1 | 6 |
+| 90d | 2026-07-02 | 2 | 8 | 8 | 1 | 2 | 12 |
+| last180d | 2026-04-03 | 8 | 28 | 13 | 2 | 2 | 32 |
+| 360d | 2025-10-05 | 12 | 66 | 15 | 2 | 2 | 85 |
+| last720d | 2024-10-10 | 24 | 159 | 15 | 6 | 2 | 366 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ aws-iam-authenticator 的安装元数据由 [x-cmd/install](https://github.com/x
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T07:11:12Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T06:50:35Z._
