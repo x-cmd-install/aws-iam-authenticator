@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 1 | 4 | 1 | 0 | 1 |
-| last60d | 2026-08-09 | 2 | 4 | 5 | 1 | 1 | 6 |
-| 90d | 2026-07-10 | 2 | 6 | 8 | 1 | 1 | 9 |
-| last180d | 2026-04-11 | 8 | 26 | 13 | 2 | 2 | 31 |
-| 360d | 2025-10-13 | 12 | 62 | 15 | 2 | 2 | 83 |
-| last720d | 2024-10-18 | 24 | 156 | 15 | 6 | 2 | 351 |
+| 30d | 2026-09-09 | 0 | 1 | 4 | 1 | 0 | 1 |
+| last60d | 2026-08-10 | 2 | 4 | 5 | 1 | 1 | 6 |
+| 90d | 2026-07-11 | 2 | 6 | 8 | 1 | 1 | 9 |
+| last180d | 2026-04-12 | 8 | 26 | 13 | 2 | 2 | 31 |
+| 360d | 2025-10-14 | 12 | 62 | 15 | 2 | 2 | 83 |
+| last720d | 2024-10-19 | 24 | 156 | 15 | 6 | 2 | 349 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for aws-iam-authenticator lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:15:31Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:15:30Z._
