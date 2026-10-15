@@ -41,41 +41,41 @@ x install aws-iam-authenticator
 
 ## 发布
 
-- **最新版本**: `v0.7.21` (2026-10-13)
-- **最近提交**: 2026-10-13
+- **最新版本**: `v0.7.22` (2026-10-14)
+- **最近提交**: 2026-10-14
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 2,337 · **Fork**: 455 · **开放 issue**: 300 · **贡献者**: 520
+- **Star**: 2,337 · **Fork**: 455 · **开放 issue**: 300 · **贡献者**: 522
 
 ## 累计统计
 
-- **发布数**: 67 · **已合并 PR**: 527 · **开放 PR**: 15 · **已关闭 issue**: 294 · **开放 issue**: 6 · **提交数**: 1037
+- **发布数**: 68 · **已合并 PR**: 530 · **开放 PR**: 15 · **已关闭 issue**: 294 · **开放 issue**: 6 · **提交数**: 1043
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 3 | 4 | 1 | 0 | 3 |
-| last60d | 2026-08-15 | 3 | 6 | 5 | 1 | 1 | 9 |
-| 90d | 2026-07-16 | 3 | 7 | 7 | 1 | 1 | 11 |
-| last180d | 2026-04-17 | 9 | 21 | 11 | 2 | 2 | 28 |
-| 360d | 2025-10-19 | 13 | 64 | 15 | 2 | 2 | 86 |
-| last720d | 2024-10-24 | 25 | 157 | 15 | 5 | 2 | 352 |
+| 30d | 2026-09-15 | 2 | 6 | 4 | 1 | 0 | 6 |
+| last60d | 2026-08-16 | 4 | 9 | 5 | 1 | 1 | 12 |
+| 90d | 2026-07-17 | 4 | 10 | 7 | 1 | 1 | 14 |
+| last180d | 2026-04-18 | 10 | 24 | 11 | 2 | 2 | 31 |
+| 360d | 2025-10-20 | 14 | 67 | 15 | 2 | 2 | 89 |
+| last720d | 2024-10-25 | 26 | 160 | 15 | 5 | 2 | 357 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [authenticator_0.7.21_checksums.txt](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.21/authenticator_0.7.21_checksums.txt) | 759 B | `other` |
-| [aws-iam-authenticator_0.7.21_darwin_amd64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.21/aws-iam-authenticator_0.7.21_darwin_amd64) | 33.4 MiB | `native/darwin/x64` |
-| [aws-iam-authenticator_0.7.21_darwin_arm64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.21/aws-iam-authenticator_0.7.21_darwin_arm64) | 31.1 MiB | `native/darwin/arm64` |
-| [aws-iam-authenticator_0.7.21_linux_amd64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.21/aws-iam-authenticator_0.7.21_linux_amd64) | 32.6 MiB | `native/linux/x64` |
-| [aws-iam-authenticator_0.7.21_linux_arm64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.21/aws-iam-authenticator_0.7.21_linux_arm64) | 30.3 MiB | `native/linux/arm64` |
-| [aws-iam-authenticator_0.7.21_linux_ppc64le](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.21/aws-iam-authenticator_0.7.21_linux_ppc64le) | 32.1 MiB | `other` |
-| [aws-iam-authenticator_0.7.21_linux_s390x](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.21/aws-iam-authenticator_0.7.21_linux_s390x) | 33.6 MiB | `other` |
-| [aws-iam-authenticator_0.7.21_windows_amd64.exe](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.21/aws-iam-authenticator_0.7.21_windows_amd64.exe) | 33.3 MiB | `native/win/x64` |
+| [authenticator_0.7.22_checksums.txt](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/authenticator_0.7.22_checksums.txt) | 759 B | `other` |
+| [aws-iam-authenticator_0.7.22_darwin_amd64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_darwin_amd64) | 33.4 MiB | `native/darwin/x64` |
+| [aws-iam-authenticator_0.7.22_darwin_arm64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_darwin_arm64) | 31.1 MiB | `native/darwin/arm64` |
+| [aws-iam-authenticator_0.7.22_linux_amd64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_linux_amd64) | 32.6 MiB | `native/linux/x64` |
+| [aws-iam-authenticator_0.7.22_linux_arm64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_linux_arm64) | 30.3 MiB | `native/linux/arm64` |
+| [aws-iam-authenticator_0.7.22_linux_ppc64le](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_linux_ppc64le) | 32.1 MiB | `other` |
+| [aws-iam-authenticator_0.7.22_linux_s390x](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_linux_s390x) | 33.6 MiB | `other` |
+| [aws-iam-authenticator_0.7.22_windows_amd64.exe](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_windows_amd64.exe) | 33.3 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ aws-iam-authenticator 的安装元数据由 [x-cmd/install](https://github.com/x
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T06:02:41Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T05:47:29Z._
