@@ -14,11 +14,11 @@ x install aws-iam-authenticator
 
 ## Code insight
 
-Total: **12,106** lines of code across **121** files in the top 5 languages.
+Total: **12,173** lines of code across **121** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,177 | 1,633 | 1,460 | 83 |
+| Go | 10,244 | 1,637 | 1,466 | 83 |
 | Sh | 966 | 297 | 219 | 16 |
 | Yaml | 768 | 170 | 39 | 20 |
 | Makefile | 155 | 31 | 37 | 1 |
@@ -41,41 +41,41 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.7.22` (2026-10-14)
-- **Last commit**: 2026-10-14
+- **Latest**: `v0.7.23` (2026-10-20)
+- **Last commit**: 2026-10-20
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 2,337 · **Forks**: 455 · **Open issues**: 300 · **Contributors**: 523
+- **Stars**: 2,337 · **Forks**: 455 · **Open issues**: 300 · **Contributors**: 524
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 530 · **Open PRs**: 13 · **Closed issues**: 294 · **Open issues**: 6 · **Commits**: 1043
+- **Releases**: 69 · **Merged PRs**: 532 · **Open PRs**: 12 · **Closed issues**: 294 · **Open issues**: 6 · **Commits**: 1047
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 2 | 5 | 4 | 0 | 0 | 6 |
-| last60d | 2026-08-20 | 4 | 9 | 5 | 1 | 1 | 10 |
-| 90d | 2026-07-21 | 4 | 10 | 7 | 1 | 1 | 14 |
-| last180d | 2026-04-22 | 9 | 24 | 11 | 2 | 2 | 31 |
-| 360d | 2025-10-24 | 14 | 66 | 13 | 2 | 2 | 87 |
-| last720d | 2024-10-29 | 26 | 160 | 13 | 5 | 2 | 357 |
+| 30d | 2026-09-20 | 3 | 7 | 3 | 0 | 0 | 8 |
+| last60d | 2026-08-21 | 5 | 10 | 4 | 1 | 1 | 12 |
+| 90d | 2026-07-22 | 5 | 12 | 6 | 1 | 1 | 16 |
+| last180d | 2026-04-23 | 10 | 26 | 10 | 2 | 2 | 33 |
+| 360d | 2025-10-25 | 15 | 68 | 12 | 2 | 2 | 89 |
+| last720d | 2024-10-30 | 27 | 162 | 12 | 5 | 2 | 361 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [authenticator_0.7.22_checksums.txt](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/authenticator_0.7.22_checksums.txt) | 759 B | `other` |
-| [aws-iam-authenticator_0.7.22_darwin_amd64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_darwin_amd64) | 33.4 MiB | `native/darwin/x64` |
-| [aws-iam-authenticator_0.7.22_darwin_arm64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_darwin_arm64) | 31.1 MiB | `native/darwin/arm64` |
-| [aws-iam-authenticator_0.7.22_linux_amd64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_linux_amd64) | 32.6 MiB | `native/linux/x64` |
-| [aws-iam-authenticator_0.7.22_linux_arm64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_linux_arm64) | 30.3 MiB | `native/linux/arm64` |
-| [aws-iam-authenticator_0.7.22_linux_ppc64le](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_linux_ppc64le) | 32.1 MiB | `other` |
-| [aws-iam-authenticator_0.7.22_linux_s390x](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_linux_s390x) | 33.6 MiB | `other` |
-| [aws-iam-authenticator_0.7.22_windows_amd64.exe](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.22/aws-iam-authenticator_0.7.22_windows_amd64.exe) | 33.3 MiB | `native/win/x64` |
+| [authenticator_0.7.23_checksums.txt](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.23/authenticator_0.7.23_checksums.txt) | 759 B | `other` |
+| [aws-iam-authenticator_0.7.23_darwin_amd64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.23/aws-iam-authenticator_0.7.23_darwin_amd64) | 33.4 MiB | `native/darwin/x64` |
+| [aws-iam-authenticator_0.7.23_darwin_arm64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.23/aws-iam-authenticator_0.7.23_darwin_arm64) | 31.1 MiB | `native/darwin/arm64` |
+| [aws-iam-authenticator_0.7.23_linux_amd64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.23/aws-iam-authenticator_0.7.23_linux_amd64) | 32.6 MiB | `native/linux/x64` |
+| [aws-iam-authenticator_0.7.23_linux_arm64](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.23/aws-iam-authenticator_0.7.23_linux_arm64) | 30.3 MiB | `native/linux/arm64` |
+| [aws-iam-authenticator_0.7.23_linux_ppc64le](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.23/aws-iam-authenticator_0.7.23_linux_ppc64le) | 32.1 MiB | `other` |
+| [aws-iam-authenticator_0.7.23_linux_s390x](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.23/aws-iam-authenticator_0.7.23_linux_s390x) | 33.6 MiB | `other` |
+| [aws-iam-authenticator_0.7.23_windows_amd64.exe](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.23/aws-iam-authenticator_0.7.23_windows_amd64.exe) | 33.3 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for aws-iam-authenticator lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:49:37Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T06:01:49Z._
