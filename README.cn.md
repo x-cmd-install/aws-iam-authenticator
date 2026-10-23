@@ -57,12 +57,12 @@ x install aws-iam-authenticator
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 7 | 3 | 0 | 0 | 8 |
-| last60d | 2026-08-23 | 4 | 10 | 5 | 1 | 1 | 12 |
-| 90d | 2026-07-24 | 5 | 12 | 7 | 1 | 1 | 16 |
-| last180d | 2026-04-25 | 10 | 26 | 11 | 2 | 2 | 33 |
-| 360d | 2025-10-27 | 15 | 67 | 13 | 2 | 2 | 89 |
-| last720d | 2024-11-01 | 27 | 162 | 13 | 5 | 2 | 361 |
+| 30d | 2026-09-23 | 3 | 7 | 3 | 0 | 0 | 8 |
+| last60d | 2026-08-24 | 4 | 10 | 5 | 1 | 1 | 12 |
+| 90d | 2026-07-25 | 5 | 12 | 7 | 1 | 1 | 16 |
+| last180d | 2026-04-26 | 10 | 26 | 11 | 2 | 2 | 33 |
+| 360d | 2025-10-28 | 15 | 67 | 13 | 2 | 2 | 89 |
+| last720d | 2024-11-02 | 27 | 162 | 13 | 5 | 2 | 361 |
 
 ## Release 资产
 
@@ -77,6 +77,15 @@ x install aws-iam-authenticator
 | [aws-iam-authenticator_0.7.23_linux_s390x](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.23/aws-iam-authenticator_0.7.23_linux_s390x) | 33.6 MiB | `other` |
 | [aws-iam-authenticator_0.7.23_windows_amd64.exe](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.23/aws-iam-authenticator_0.7.23_windows_amd64.exe) | 33.3 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/aws-iam-authenticator) 上共有 **61** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.7.23` | ✅ latest |
+| Nix unstable | `0.7.11` | ⚠️ outdated |
+
 ## 改进这些数据
 
 aws-iam-authenticator 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `aws-iam-authenticator` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -86,4 +95,4 @@ aws-iam-authenticator 的安装元数据由 [x-cmd/install](https://github.com/x
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:55:52Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:57:30Z._
