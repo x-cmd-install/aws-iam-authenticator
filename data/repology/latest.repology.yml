@@ -56,7 +56,7 @@
 - repo: homebrew
   srcname: aws-iam-authenticator
   visiblename: aws-iam-authenticator
-  version: 0.7.23
+  version: 0.7.24
   origversion: null
   status: newest
   summary: Use AWS IAM credentials to authenticate to Kubernetes
@@ -155,7 +155,7 @@
   subrepo: main
   binname: aws-iam-authenticator
   visiblename: aws-iam-authenticator
-  version: 0.7.23
+  version: 0.7.24
   origversion: null
   status: newest
   licenses:
@@ -164,9 +164,18 @@
   subrepo: devops
   binname: aws-iam-authenticator
   visiblename: aws-iam-authenticator
+  version: 0.7.24
+  origversion: 0.7.24-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: aws-iam-authenticator
+  visiblename: aws-iam-authenticator
   version: 0.7.23
   origversion: 0.7.23-1~ops2deb
-  status: newest
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -556,11 +565,11 @@
     - Development/Languages/Other
   vulnerable: true
 - repo: opensuse_leap_15_6
-  subrepo: updates/sle
+  subrepo: main/oss
   srcname: aws-iam-authenticator
   visiblename: aws-iam-authenticator
   version: 0.5.3
-  origversion: 0.5.3-150000.1.12.1
+  origversion: 0.5.3-150000.1.9.1
   status: outdated
   summary: Authenticate to Kubernetes cluster using AWS IAM credentials
   licenses:
@@ -569,11 +578,11 @@
     - Development/Languages/Other
   vulnerable: true
 - repo: opensuse_leap_15_6
-  subrepo: main/oss
+  subrepo: updates/sle
   srcname: aws-iam-authenticator
   visiblename: aws-iam-authenticator
   version: 0.5.3
-  origversion: 0.5.3-150000.1.9.1
+  origversion: 0.5.3-150000.1.12.1
   status: outdated
   summary: Authenticate to Kubernetes cluster using AWS IAM credentials
   licenses:
