@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,338 · **Forks**: 456 · **Open issues**: 300 · **Contributors**: 524
+- **Stars**: 2,338 · **Forks**: 456 · **Open issues**: 300 · **Contributors**: 525
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 4 | 9 | 3 | 0 | 0 | 10 |
-| last60d | 2026-08-26 | 5 | 10 | 5 | 1 | 0 | 14 |
-| 90d | 2026-07-27 | 6 | 14 | 6 | 1 | 1 | 18 |
-| last180d | 2026-04-28 | 11 | 27 | 11 | 2 | 2 | 35 |
-| 360d | 2025-10-30 | 16 | 69 | 13 | 2 | 2 | 91 |
-| last720d | 2024-11-04 | 28 | 164 | 13 | 5 | 2 | 365 |
+| 30d | 2026-09-26 | 4 | 9 | 3 | 0 | 0 | 10 |
+| last60d | 2026-08-27 | 4 | 10 | 5 | 1 | 0 | 11 |
+| 90d | 2026-07-28 | 6 | 14 | 6 | 1 | 1 | 16 |
+| last180d | 2026-04-29 | 10 | 27 | 11 | 2 | 2 | 31 |
+| 360d | 2025-10-31 | 16 | 67 | 13 | 2 | 2 | 87 |
+| last720d | 2024-11-05 | 28 | 164 | 13 | 5 | 2 | 365 |
 
 ## Release assets
 
@@ -79,7 +79,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **62** distros on [repology.org](https://repology.org/project/aws-iam-authenticator). **3** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **62** distros on [repology.org](https://repology.org/project/aws-iam-authenticator). **4** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for aws-iam-authenticator lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:49:12Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:54:59Z._
