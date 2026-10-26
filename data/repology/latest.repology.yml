@@ -37,9 +37,9 @@
 - repo: chocolatey
   binname: aws-iam-authenticator
   visiblename: AWS IAM Authenticator for Kubernetes
-  version: 0.7.22
+  version: 0.7.24
   origversion: null
-  status: outdated
+  status: newest
   summary: A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - repo: freebsd
   srcname: security/aws-iam-authenticator
@@ -539,11 +539,11 @@
   maintainers:
     - ops2deb@upciti.com
 - repo: opensuse_leap_15_5
-  subrepo: updates/sle
+  subrepo: main/oss
   srcname: aws-iam-authenticator
   visiblename: aws-iam-authenticator
   version: 0.5.3
-  origversion: 0.5.3-150000.1.12.1
+  origversion: 0.5.3-150000.1.9.1
   status: outdated
   summary: Authenticate to Kubernetes cluster using AWS IAM credentials
   licenses:
@@ -552,24 +552,11 @@
     - Development/Languages/Other
   vulnerable: true
 - repo: opensuse_leap_15_5
-  subrepo: main/oss
+  subrepo: updates/sle
   srcname: aws-iam-authenticator
   visiblename: aws-iam-authenticator
   version: 0.5.3
-  origversion: 0.5.3-150000.1.9.1
-  status: outdated
-  summary: Authenticate to Kubernetes cluster using AWS IAM credentials
-  licenses:
-    - Apache-2.0
-  categories:
-    - Development/Languages/Other
-  vulnerable: true
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: aws-iam-authenticator
-  visiblename: aws-iam-authenticator
-  version: 0.5.3
-  origversion: 0.5.3-150000.1.9.1
+  origversion: 0.5.3-150000.1.12.1
   status: outdated
   summary: Authenticate to Kubernetes cluster using AWS IAM credentials
   licenses:
@@ -583,6 +570,19 @@
   visiblename: aws-iam-authenticator
   version: 0.5.3
   origversion: 0.5.3-150000.1.12.1
+  status: outdated
+  summary: Authenticate to Kubernetes cluster using AWS IAM credentials
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Languages/Other
+  vulnerable: true
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: aws-iam-authenticator
+  visiblename: aws-iam-authenticator
+  version: 0.5.3
+  origversion: 0.5.3-150000.1.9.1
   status: outdated
   summary: Authenticate to Kubernetes cluster using AWS IAM credentials
   licenses:
