@@ -57,12 +57,12 @@ x install aws-iam-authenticator
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 4 | 9 | 3 | 0 | 0 | 10 |
-| last60d | 2026-08-27 | 4 | 10 | 5 | 1 | 0 | 11 |
-| 90d | 2026-07-28 | 6 | 14 | 6 | 1 | 1 | 16 |
-| last180d | 2026-04-29 | 10 | 27 | 11 | 2 | 2 | 31 |
-| 360d | 2025-10-31 | 16 | 67 | 13 | 2 | 2 | 87 |
-| last720d | 2024-11-05 | 28 | 164 | 13 | 5 | 2 | 365 |
+| 30d | 2026-09-27 | 4 | 9 | 3 | 0 | 0 | 10 |
+| last60d | 2026-08-28 | 4 | 10 | 5 | 1 | 0 | 11 |
+| 90d | 2026-07-29 | 6 | 14 | 6 | 1 | 1 | 16 |
+| last180d | 2026-04-30 | 10 | 27 | 11 | 2 | 2 | 31 |
+| 360d | 2025-11-01 | 16 | 67 | 13 | 2 | 2 | 87 |
+| last720d | 2024-11-06 | 28 | 164 | 13 | 5 | 2 | 365 |
 
 ## Release 资产
 
@@ -79,7 +79,7 @@ x install aws-iam-authenticator
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/aws-iam-authenticator) 上共有 **62** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/aws-iam-authenticator) 上共有 **62** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -95,4 +95,4 @@ aws-iam-authenticator 的安装元数据由 [x-cmd/install](https://github.com/x
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T05:54:59Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T06:16:54Z._
