@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 759,
       "digest": "sha256:1cd75cc67ea4995bd2d6e3fff83306ef6a35c545397279bca679b2eb0e656f44",
-      "download_count": 244,
+      "download_count": 318,
       "created_at": "2026-10-23T20:38:03Z",
       "updated_at": "2026-10-23T20:38:03Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.24/authenticator_0.7.24_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 34978144,
       "digest": "sha256:d847e6bea0310912b6deb5431b60ad668232233a75133e027b74b6e508c9f92a",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-10-23T20:37:59Z",
       "updated_at": "2026-10-23T20:38:02Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.24/aws-iam-authenticator_0.7.24_darwin_amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 32654498,
       "digest": "sha256:cd17cb33b1412c7178c204a4d7a8de5badeb2b1a8281c67887b6ca697904bffe",
-      "download_count": 814,
+      "download_count": 1137,
       "created_at": "2026-10-23T20:38:03Z",
       "updated_at": "2026-10-23T20:38:05Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.24/aws-iam-authenticator_0.7.24_darwin_arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 34226336,
       "digest": "sha256:136e41012ee248d1949ec7b512ac37ec79830f2ab196484f8e650e29e57ad853",
-      "download_count": 6649,
+      "download_count": 9656,
       "created_at": "2026-10-23T20:37:59Z",
       "updated_at": "2026-10-23T20:38:02Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.24/aws-iam-authenticator_0.7.24_linux_amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 31719584,
       "digest": "sha256:0e1790be798dbf4462ce552f660e02d6aa3373ad9642b6c54f9964eb981766c6",
-      "download_count": 544,
+      "download_count": 1346,
       "created_at": "2026-10-23T20:37:59Z",
       "updated_at": "2026-10-23T20:38:02Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.24/aws-iam-authenticator_0.7.24_linux_arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 34940928,
       "digest": "sha256:eb35cf2c8d87a1dce3ee3de49c84c4ac26b5d8c930e20eaf812f62800da955fa",
-      "download_count": 215,
+      "download_count": 248,
       "created_at": "2026-10-23T20:38:03Z",
       "updated_at": "2026-10-23T20:38:05Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.24/aws-iam-authenticator_0.7.24_windows_amd64.exe"
