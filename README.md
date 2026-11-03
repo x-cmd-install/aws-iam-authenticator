@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,338 · **Forks**: 455 · **Open issues**: 300 · **Contributors**: 528
+- **Stars**: 2,338 · **Forks**: 455 · **Open issues**: 300 · **Contributors**: 529
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 4 | 9 | 2 | 0 | 0 | 10 |
-| last60d | 2026-09-03 | 4 | 10 | 5 | 1 | 0 | 11 |
-| 90d | 2026-08-04 | 6 | 13 | 5 | 1 | 1 | 16 |
-| last180d | 2026-05-06 | 9 | 25 | 11 | 2 | 2 | 31 |
-| 360d | 2025-11-07 | 16 | 65 | 13 | 2 | 2 | 83 |
-| last720d | 2024-11-12 | 28 | 164 | 13 | 5 | 2 | 365 |
+| 30d | 2026-10-04 | 4 | 9 | 2 | 0 | 0 | 10 |
+| last60d | 2026-09-04 | 4 | 10 | 5 | 1 | 0 | 11 |
+| 90d | 2026-08-05 | 6 | 13 | 5 | 1 | 1 | 16 |
+| last180d | 2026-05-07 | 9 | 25 | 11 | 2 | 2 | 31 |
+| 360d | 2025-11-08 | 16 | 65 | 13 | 2 | 2 | 83 |
+| last720d | 2024-11-13 | 28 | 163 | 13 | 5 | 2 | 365 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for aws-iam-authenticator lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:27:53Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:15:27Z._
