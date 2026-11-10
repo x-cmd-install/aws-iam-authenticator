@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 4 | 9 | 1 | 0 | 0 | 4 |
-| last60d | 2026-09-09 | 4 | 10 | 4 | 1 | 0 | 11 |
-| 90d | 2026-08-10 | 6 | 13 | 5 | 1 | 1 | 16 |
-| last180d | 2026-05-12 | 9 | 24 | 10 | 2 | 2 | 29 |
-| 360d | 2025-11-13 | 15 | 61 | 13 | 2 | 2 | 81 |
-| last720d | 2024-11-18 | 28 | 162 | 13 | 5 | 2 | 364 |
+| 30d | 2026-10-11 | 4 | 9 | 1 | 0 | 0 | 4 |
+| last60d | 2026-09-11 | 4 | 10 | 4 | 1 | 0 | 11 |
+| 90d | 2026-08-12 | 6 | 13 | 5 | 1 | 1 | 16 |
+| last180d | 2026-05-14 | 9 | 24 | 10 | 2 | 2 | 29 |
+| 360d | 2025-11-15 | 15 | 61 | 13 | 2 | 2 | 81 |
+| last720d | 2024-11-20 | 27 | 162 | 13 | 4 | 2 | 364 |
 
 ## Release assets
 
@@ -77,6 +77,15 @@ Lowest-scoring checks:
 | [aws-iam-authenticator_0.7.24_linux_s390x](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.24/aws-iam-authenticator_0.7.24_linux_s390x) | 33.6 MiB | `other` |
 | [aws-iam-authenticator_0.7.24_windows_amd64.exe](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.24/aws-iam-authenticator_0.7.24_windows_amd64.exe) | 33.3 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **62** distros on [repology.org](https://repology.org/project/aws-iam-authenticator). **6** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.7.24` | ✅ latest |
+| Nix unstable | `0.7.11` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for aws-iam-authenticator lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aws-iam-authenticator` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +95,4 @@ Install metadata for aws-iam-authenticator lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:17:33Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:53:34Z._
