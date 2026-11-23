@@ -45,9 +45,9 @@
   srcname: security/aws-iam-authenticator
   binname: aws-iam-authenticator
   visiblename: security/aws-iam-authenticator
-  version: 0.7.20
-  origversion: 0.7.20_3
-  status: outdated
+  version: 0.7.24
+  origversion: null
+  status: newest
   summary: Use AWS IAM credentials to authenticate to a Kubernetes cluster
   maintainers:
     - danilo@freebsd.org
@@ -127,15 +127,6 @@
     - xiaoyin_c@qq.com
   licenses:
     - Apache-2.0
-- repo: wakemeops
-  subrepo: devops
-  binname: aws-iam-authenticator
-  visiblename: aws-iam-authenticator
-  version: 0.7.21
-  origversion: 0.7.21-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: nix_stable_26_05
   srcname: aws-iam-authenticator
   visiblename: aws-iam-authenticator
@@ -193,6 +184,15 @@
   visiblename: aws-iam-authenticator
   version: 0.7.22
   origversion: 0.7.22-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: aws-iam-authenticator
+  visiblename: aws-iam-authenticator
+  version: 0.7.21
+  origversion: 0.7.21-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
