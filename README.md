@@ -14,11 +14,11 @@ x install aws-iam-authenticator
 
 ## Code insight
 
-Total: **12,173** lines of code across **121** files in the top 5 languages.
+Total: **12,193** lines of code across **121** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,244 | 1,637 | 1,466 | 83 |
+| Go | 10,264 | 1,641 | 1,466 | 83 |
 | Sh | 966 | 297 | 219 | 16 |
 | Yaml | 768 | 170 | 39 | 20 |
 | Makefile | 155 | 31 | 37 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.7.24` (2026-10-23)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 2,339 · **Forks**: 456 · **Open issues**: 301 · **Contributors**: 535
+- **Stars**: 2,340 · **Forks**: 456 · **Open issues**: 301 · **Contributors**: 538
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 534 · **Open PRs**: 13 · **Closed issues**: 294 · **Open issues**: 7 · **Commits**: 1051
+- **Releases**: 70 · **Merged PRs**: 535 · **Open PRs**: 12 · **Closed issues**: 294 · **Open issues**: 7 · **Commits**: 1055
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-24 | 4 | 9 | 3 | 0 | 1 | 0 |
-| 90d | 2026-08-25 | 5 | 11 | 5 | 1 | 2 | 0 |
-| last180d | 2026-05-27 | 8 | 24 | 10 | 2 | 3 | 0 |
-| 360d | 2025-11-28 | 15 | 56 | 13 | 2 | 3 | 0 |
-| last720d | 2024-12-03 | 27 | 162 | 13 | 4 | 3 | 364 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 1 | 1 |
+| last60d | 2026-09-25 | 4 | 10 | 2 | 0 | 1 | 12 |
+| 90d | 2026-08-26 | 5 | 11 | 4 | 1 | 1 | 13 |
+| last180d | 2026-05-28 | 8 | 24 | 9 | 2 | 3 | 29 |
+| 360d | 2025-11-29 | 15 | 57 | 12 | 2 | 3 | 78 |
+| last720d | 2024-12-04 | 27 | 162 | 12 | 4 | 3 | 368 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for aws-iam-authenticator lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:27:52Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:45:08Z._
