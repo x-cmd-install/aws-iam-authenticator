@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,340 · **Forks**: 456 · **Open issues**: 301 · **Contributors**: 538
+- **Stars**: 2,340 · **Forks**: 457 · **Open issues**: 301 · **Contributors**: 540
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 1 | 1 |
-| last60d | 2026-09-28 | 4 | 10 | 1 | 0 | 1 | 12 |
-| 90d | 2026-08-29 | 4 | 11 | 4 | 1 | 1 | 13 |
-| last180d | 2026-05-31 | 8 | 23 | 9 | 2 | 3 | 29 |
-| 360d | 2025-12-02 | 15 | 55 | 12 | 2 | 3 | 78 |
-| last720d | 2024-12-07 | 27 | 162 | 12 | 4 | 3 | 368 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 1 | 1 |
+| last60d | 2026-09-29 | 4 | 10 | 1 | 0 | 1 | 12 |
+| 90d | 2026-08-30 | 4 | 11 | 4 | 1 | 1 | 13 |
+| last180d | 2026-06-01 | 8 | 23 | 9 | 2 | 3 | 29 |
+| 360d | 2025-12-03 | 15 | 55 | 12 | 2 | 3 | 78 |
+| last720d | 2024-12-08 | 27 | 162 | 12 | 4 | 3 | 368 |
 
 ## Release assets
 
@@ -77,6 +77,15 @@ Lowest-scoring checks:
 | [aws-iam-authenticator_0.7.24_linux_s390x](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.24/aws-iam-authenticator_0.7.24_linux_s390x) | 33.6 MiB | `other` |
 | [aws-iam-authenticator_0.7.24_windows_amd64.exe](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.24/aws-iam-authenticator_0.7.24_windows_amd64.exe) | 33.3 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **62** distros on [repology.org](https://repology.org/project/aws-iam-authenticator). **7** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.7.24` | ✅ latest |
+| Nix unstable | `0.7.11` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for aws-iam-authenticator lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aws-iam-authenticator` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +95,4 @@ Install metadata for aws-iam-authenticator lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:19:47Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:40:00Z._
